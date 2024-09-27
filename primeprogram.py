@@ -1,1 +1,1 @@
-print('hii   ')
+print(2+3)
